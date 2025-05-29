@@ -18,4 +18,4 @@ A simple Flask-based video streaming platform where users can upload, store, and
 
 ## 🖼️ Demo UI
 
-![Screenshot]()  
+![Screenshot]((https://github.com/user-attachments/assets/f6b4538c-c68d-43cd-8364-950501301902)  
